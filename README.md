@@ -6,10 +6,9 @@ Welcome to my GitHub profile! I'm passionate about coding, learning, and creatin
 
 ### 👨‍💻 About Me
 
-Hi there! I'm new to the world of coding and currently exploring the exciting possibilities that come with learning how to build software. I'm passionate about problem-solving and eager to grow my skills in web development, programming, and all things tech.
+Hey there! I'm just getting started with coding and diving into the world of software development. Right now, I’m exploring how things work behind the scenes—whether it’s building websites, writing programs, or just figuring things out one bug at a time.
 
-I'm currently focused on learning the basics, building small projects, and getting hands-on experience with different tools and languages. I'm always open to connecting with other learners and developers—feel free to reach out!
-
+I love solving problems and am always looking for ways to learn by doing. I’m working on small projects, picking up new skills, and getting comfortable with different tools and languages. If you're learning too, or just want to chat tech, feel free to reach out!
 
 ### 🌱 I’m currently learning...
 - Java
@@ -17,14 +16,12 @@ I'm currently focused on learning the basics, building small projects, and getti
 
 ### 🚀 My Coding Journey
 
-I'm at the beginning of my coding journey and excited to learn and grow in the world of software development. I started by getting familiar with the basics and gradually building small projects to apply what I'm learning.
-
-One of my first major steps was completing a capstone project:
+This is just the beginning of my coding journey, and I’m enjoying every step of it. After getting a handle on some fundamentals, I jumped into my first real project—a capstone!
 
 - 🧾 **[Capstone 1 - Accounting Ledger](https://github.com/AbrahamGhani/Capstones/tree/main/Capstone1-AccountingLedger)**  
-  This project helped me understand basic accounting principles while applying them in a simple ledger system. It was a great way to practice fundamental coding skills and project organization.
+  This project was a great intro to both programming and accounting concepts. It gave me the chance to build something functional while learning how to plan and organize code in a project setting.
 
-I'm continuously working on more capstones and personal projects as I gain more experience. Stay tuned!
+More projects are on the way as I continue to learn and grow. Stay tuned for updates!
 
 ### 📫 How to reach me:
 - Email: AbrahamKosmoGhani@gmail.com
@@ -37,4 +34,4 @@ I'm continuously working on more capstones and personal projects as I gain more 
 
 ---
 
-Thanks for stopping by! 🚀
+Thanks again for stopping by — I'm excited to see where this journey goes! 🚀
