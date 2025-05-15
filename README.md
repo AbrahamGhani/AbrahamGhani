@@ -2,7 +2,7 @@
 **[YourUsername]/[YourUsername]** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Welcome to my GitHub profile! I'm passionate about coding, learning, and creating something new. Here's a bit about me:
+Welcome to my GitHub profile! I’m someone who’s curious about technology, excited to learn, and always up for building something new. Thanks for dropping by!
 
 ### 👨‍💻 About Me
 
