@@ -92,7 +92,7 @@ A more advanced Java capstone focused on designing interconnected classes and im
 
 **Email:** Abeghani01@gmail.com  
 **GitHub:** https://github.com/AbrahamGhani  
-**LinkedIn:** linkedin.com/in/abraham-ghani
+**LinkedIn:** linkedin.com/in/abraham-ghani 
 
 ---
 
